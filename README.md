@@ -1,2 +1,2 @@
 # for_work
-After learning the basics of programming, I applied those knowledge to my thesis project. Here are some scripts I wrote (mainly in Python, R, and shell scripts) for various data analysis tasks. 
+Here are some scripts I wrote (mainly in Python, R, and shell scripts) for various data analysis tasks during my thesis project. 
